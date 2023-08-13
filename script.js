@@ -7,10 +7,10 @@ const person = {
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
-var team = player;
-var team1 = ["John", "Bob", "Alice", "Poppy"];
+const team = player;
+const team1 = ["John", "Bob", "Alice", "Poppy"];
 
-var cap1 = {
+const cap1 = {
   name: "John Doe",
   age: 80,
 };
